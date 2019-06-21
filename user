@@ -1,0 +1,16 @@
+{
+    "records": [
+        {
+            "id": "1",
+            "nama": "Revi",
+            "deskripsi": "ini saya",
+            "gambar": "https://not-there.org/wp-content/uploads/2019/03/1-700x700.png"
+        },
+        {
+            "id": "2",
+            "nama": "diya",
+            "deskripsi": "ini diya",
+            "gambar": "https://www.pinclipart.com/picdir/middle/2-28331_anak-kartun-muslim-png-clipart-cartoon-child-cartoon.png"
+        }
+    ]
+}
